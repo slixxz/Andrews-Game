@@ -1,0 +1,12 @@
+WORM game log
+hatching snake...
+snake grown
+moving to (12,45)1	leaving: (12,36)
+moving to (12,46)1	leaving: (12,37)
+moving to (11,46)1	leaving: (12,38)
+moving to (10,46)1	leaving: (12,39)
+moving to (9,46)1	leaving: (12,40)
+moving to (8,46)1	leaving: (12,41)
+moving to (7,46)1	leaving: (12,42)
+moving to (6,46)1	leaving: (12,43)
+cannot move there!
